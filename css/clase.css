@@ -1,0 +1,16 @@
+body{
+    background: #9b8b58;
+}
+
+.caja1
+{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+p{border: 1px dashed purple;}
+
